@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/Deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
+git clone https://github.com/PROFESSOR-SAAB/Adv-Auto-Filter-Bot-V2
 cd Adv-Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
